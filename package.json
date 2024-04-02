@@ -1,0 +1,16 @@
+{
+  "name": "FinancialHealth",
+  "productName": "FinancialHealth",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "REYESMAJ",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "15.5.5"
+  }
+}
